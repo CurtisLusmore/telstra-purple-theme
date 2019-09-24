@@ -1,0 +1,26 @@
+{
+    "name": "telstra-purple",
+    "displayName": "Telstra Purple",
+    "description": "Telstra Purple theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Telstra Purple (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Telstra Purple (Dark)-color-theme.json"
+            },
+            {
+                "label": "Telstra Purple (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Telstra Purple (Light)-color-theme.json"
+            }
+        ]
+    }
+}
