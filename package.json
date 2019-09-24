@@ -1,11 +1,21 @@
 {
-    "name": "telstra-purple",
+    "name": "telstra-purple-theme",
     "displayName": "Telstra Purple",
     "description": "Telstra Purple theme",
+    "author": {
+        "name": "Curtis Lusmore",
+        "email": "curtis.lusmore@readify.net",
+        "url": "http://purple.telstra.com"
+    },
+    "publisher": "telstra-purple",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.38.0"
     },
+    "repository": {
+        "url": "https://github.com/CurtisLusmore/telstra-purple-theme"
+    },
+    "icon": "Telstra-Purple.png",
     "categories": [
         "Themes"
     ],
@@ -22,5 +32,9 @@
                 "path": "./themes/Telstra Purple (Light)-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "dev": true,
+        "vsce": "^1.66.0"
     }
 }
