@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "telstra-purple-dark" extension will be documented in this file.
+## Tweaked selection highlight colours, start on light theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The selection highlight colours were very intense. Some transparency has been
+added to dull them a bit.
 
-## [Unreleased]
+Started on the light theme.
 
-- Initial release
+## Initial release
+
+The initial release.

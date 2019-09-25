@@ -4,19 +4,53 @@
 	"colors": {
 		"editor.background": "#FFFFFF",
 		"editor.foreground": "#000000",
-		"editor.inactiveSelectionBackground": "#E5EBF1",
 		"editorIndentGuide.background": "#D3D3D3",
 		"editorIndentGuide.activeBackground": "#939393",
-		"editor.selectionHighlightBackground": "#ADD6FF80",
 		"editorSuggestWidget.background": "#F3F3F3",
-		"activityBarBadge.background": "#007ACC",
 		"sideBarTitle.foreground": "#6F6F6F",
 		"list.hoverBackground": "#E8E8E8",
 		"input.placeholderForeground": "#767676",
 		"settings.textInputBorder": "#CECECE",
 		"settings.numberInputBorder": "#CECECE",
 		"statusBarItem.remoteForeground": "#FFF",
-		"statusBarItem.remoteBackground": "#16825D"
+		
+		"activityBarBadge.background": "#ed1f4f",
+		"button.background": "#ed1f4f",
+		"diffEditor.insertedTextBackground": "#0e39fb44",
+		"diffEditor.removedTextBackground": "#ed1f4f44",
+		"editor.findMatchBackground": "#ed1f4f",
+		"editor.findMatchHighlightBackground": "#0e39fb",
+		"editor.inactiveSelectionBackground": "#0e39fb44",
+		"editor.selectionBackground": "#ed1f4f44",
+		"editor.selectionHighlightBackground": "#0e39fb",
+		"editorOverviewRuler.addedForeground": "#0e39fbaa",
+		"editorOverviewRuler.deletedForeground": "#ed1f4faa",
+		"errorForeground": "#ed1f4f",
+		"gitDecoration.addedResourceForeground": "#0e39fb",
+		"gitDecoration.conflictingResourceForeground": "#ed1f4f",
+		"gitDecoration.deletedResourceForeground": "#ed1f4f",
+		"gitDecoration.modifiedResourceForeground": "#ed1f4f",
+		"gitDecoration.untrackedResourceForeground": "#0e39fb",
+		"list.activeSelectionBackground": "#0e39fb",
+		"list.focusBackground": "#0e39fb",
+		"list.highlightForeground": "#ed1f4f",
+		"menu.selectionBackground": "#0e39fb",
+		"merge.currentContentBackground": "#0e39fb",
+		"merge.currentHeaderBackground": "#0e39fb",
+		"merge.incomingContentBackground": "#ed1f4f",
+		"merge.incomingHeaderBackground": "#ed1f4f",
+		"minimap.findMatchHighlight": "#ed1f4f",
+		"selection.background": "#0e39fb",
+		"statusBar.background": "#0e39fb",
+		"statusBar.debuggingBackground": "#ed1f4f",
+		"statusBar.noFolderBackground": "#0e39fb",
+		"statusBarItem.remoteBackground": "#ed1f4f",
+		"textLink.activeForeground": "#ed1f4f",
+		"textLink.foreground": "#ed1f4faa",
+		"titleBar.activeBackground": "#ed1f4f",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#0e39fb",
+		"titleBar.inactiveForeground": "#ffffff",
 	},
 	"tokenColors": [
 		{
@@ -221,7 +255,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#a31515"
+				"foreground": "#0e39fb"
 			}
 		},
 		{
