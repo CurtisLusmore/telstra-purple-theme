@@ -22,7 +22,7 @@
 		"editor.findMatchHighlightBackground": "#0e39fb",
 		"editor.inactiveSelectionBackground": "#0e39fb44",
 		"editor.selectionBackground": "#ed1f4f44",
-		"editor.selectionHighlightBackground": "#0e39fb",
+		"editor.selectionHighlightBackground": "#0e39fb44",
 		"editorOverviewRuler.addedForeground": "#0e39fbaa",
 		"editorOverviewRuler.deletedForeground": "#ed1f4faa",
 		"errorForeground": "#ed1f4f",
