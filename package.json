@@ -1,14 +1,14 @@
 {
     "name": "telstra-purple-theme",
-    "displayName": "Telstra Purple",
-    "description": "Telstra Purple theme",
+    "displayName": "Telstra Purple Theme",
+    "description": "A theme based on the colours of Telstra Purple",
     "author": {
         "name": "Curtis Lusmore",
         "email": "curtis.lusmore@readify.net",
         "url": "http://purple.telstra.com"
     },
     "publisher": "telstra-purple",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "engines": {
         "vscode": "^1.38.0"
     },
@@ -34,7 +34,6 @@
         ]
     },
     "dependencies": {
-        "dev": true,
         "vsce": "^1.66.0"
     }
 }

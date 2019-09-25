@@ -5,9 +5,9 @@ A theme based on the colours of [Telstra Purple](https://purple.telstra.com).
 
 ## Dark Theme
 
-![Dark theme](./dark.png)
+![Dark theme](https://raw.githubusercontent.com/CurtisLusmore/telstra-purple-theme/master/dark.png)
 
 
 ## Light Theme
 
-![Light theme](./light.png)
+![Light theme](https://raw.githubusercontent.com/CurtisLusmore/telstra-purple-theme/master/light.png)
